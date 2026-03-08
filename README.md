@@ -13,7 +13,7 @@ After the PR has been made, Reviewers will check if the Submission is safe and r
 ## Quick Checklist
 
 Before opening a PR, make sure all of the following are true:
-
+r
 - Your mod folder is `mods/Author@Modname/`
 - `description.md` exists
 - `meta.json` exists and is valid JSON
